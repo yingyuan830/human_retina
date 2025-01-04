@@ -1,0 +1,1 @@
+macs2 callpeak -t ${fragbed_path} --outdir ${peakcall_path} -n ${cell_type} -q ${j} --nomodel --call-summits --SPMR --shift -75 --extsize 150
