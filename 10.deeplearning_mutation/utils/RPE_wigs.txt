@@ -1,0 +1,2 @@
+index	identifier	file	scale	sum_stat	description
+0	human_RPE	/data/dataset/Human-Retina/final_inte/bed2bam/RPE.sorted.bw	0.02	mean	RPE
